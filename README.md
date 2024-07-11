@@ -39,7 +39,7 @@ Se você preferir usar o protocolo SSH para comunicação com o repositório, si
 
 2. Navegue até o diretório do projeto.
 
-3. Execute o seguinte comando para mudar a URL remota para SSH:
+3. Execute o seguinte comando para mudar a URL remota para SSH::
 
    ```shell
    git remote set-url origin git@github.com:cami-la/collections-java-api-2023.git
